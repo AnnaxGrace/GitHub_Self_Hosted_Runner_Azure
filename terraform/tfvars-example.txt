@@ -1,0 +1,7 @@
+#Copy this into a terraform.tfvars file. The created terraform.tfvars file will NOT be pushed to version control, as it is in .gitignore. 
+# Replace the values with the correct values. 
+
+#This is you, so changes are monitored
+editor = "firstInitial_lastName"
+
+project_name = "learning-project"
